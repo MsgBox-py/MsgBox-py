@@ -1,0 +1,1 @@
+open('Result.txt', 'w').close()
